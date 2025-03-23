@@ -23,6 +23,7 @@ An intelligent audio processing pipeline that cleans noisy voice recordings, tra
 - [Whisper](https://github.com/openai/whisper) for transcription
 - [Neuphonic](https://neuphonic.com/) for voice synthesis
 - `noisereduce` / DeepFilterNet for noise cleaning
+- Streamlit
 
 ## 🧑‍💻 Team Members
 
