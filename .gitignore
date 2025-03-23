@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio and output folders
+input_audio/
+summary_audio/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# System files
+.DS_Store
+Thumbs.db
